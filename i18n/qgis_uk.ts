@@ -4043,7 +4043,7 @@ Do you want terminate it anyway?</source>
     </message>
     <message>
         <source>Finished</source>
-        <translation>Завершено</translation>
+        <translation>Закінчено</translation>
     </message>
     <message>
         <source>Processing completed.</source>
@@ -4088,15 +4088,15 @@ Do you want terminate it anyway?</source>
     </message>
     <message>
         <source>Select where to save the VRT</source>
-        <translation>Виберіть куди зберегти VRT</translation>
+        <translation>Виберіть, куди зберегти VRT</translation>
     </message>
     <message>
         <source>Select the input file for Contour</source>
-        <translation>Виберіть вхідний файл для створення ізоліній</translation>
+        <translation>Виберіть вхідний файл для створення Ізоліній</translation>
     </message>
     <message>
         <source>Select the input file for Grid</source>
-        <translation type="unfinished">Виберіть вхідний файл для створення регулярної сітки</translation>
+        <translation>Виберіть вхідний файл для створення Регулярної сітки</translation>
     </message>
     <message>
         <source>Select the raster file to save the results to</source>
@@ -4120,11 +4120,11 @@ Do you want terminate it anyway?</source>
     </message>
     <message>
         <source>Select where to save the Contour output</source>
-        <translation>Виберіть куди зберегти вихідні Ізолінії</translation>
+        <translation>Виберіть, куди зберегти вихідні Ізолінії</translation>
     </message>
     <message>
         <source>Error retrieving the extent</source>
-        <translation type="unfinished">Помилка отримння охоплення</translation>
+        <translation type="unfinished">Помилка отримання охоплення</translation>
     </message>
     <message>
         <source>GDAL was unable to retrieve the extent from any file. 
@@ -4139,13 +4139,13 @@ The &quot;Use intersected extent&quot; option will be unchecked.</source>
     <message>
         <source>The computed extent is empty. 
 Disable the &quot;Use intersected extent&quot; option to have a nonempty output.</source>
-        <translation type="unfinished">Розраховане охоплення порожнє.
+        <translation>Розраховане охоплення порожнє.
 Вимкніть &quot;Використовувати охоплення перетину&quot; для отримання змістовного результату.
 </translation>
     </message>
     <message>
         <source>{0} not created.</source>
-        <translation type="unfinished">{0} не створений.</translation>
+        <translation type="unfinished">{0} не створео.</translation>
     </message>
     <message>
         <source>Select the input directory with files to Translate</source>
@@ -4177,7 +4177,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the files to analyse</source>
-        <translation>Виберіть фали для аналізу</translation>
+        <translation>Виберіть файли для аналізу</translation>
     </message>
     <message>
         <source>[select levels]</source>
@@ -4210,7 +4210,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     <message>
         <source>Select where to save the TileIndex output</source>
         <translatorcomment>Виберіть куди зберегти вихідний TileIndex</translatorcomment>
-        <translation>Виберіть куди зберегти вихідний Індекс мозаїки</translation>
+        <translation>Виберіть, куди зберегти вихідний Індекс мозаїки</translation>
     </message>
     <message>
         <source>Select the input directory with files</source>
@@ -4230,11 +4230,11 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select where to save the Merge output</source>
-        <translation>Виберіть куди зберегти результат Об&apos;єднання</translation>
+        <translation>Виберіть, куди зберегти результат Об&apos;єднання</translation>
     </message>
     <message>
         <source>Select the input file for Near Black</source>
-        <translation type="unfinished">Виберіть вхідний файл для Наближення до чорного</translation>
+        <translation>Виберіть вхідний файл для Переведення в чорний</translation>
     </message>
     <message>
         <source>Select the file for DEM</source>
@@ -4246,11 +4246,11 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the input file for Polygonize</source>
-        <translation type="unfinished">Виберіть вхідний файл для Перетворення в полігони</translation>
+        <translation>Виберіть вхідний файл для Полігонізування</translation>
     </message>
     <message>
         <source>Select where to save the Polygonize output</source>
-        <translation type="unfinished">Виберіть куди зберігати результат Перетворення в полігони</translation>
+        <translation>Виберіть, куди зберігати результат Полігонізування</translation>
     </message>
     <message>
         <source>This raster already found in map canvas</source>
@@ -4258,23 +4258,23 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the input file for Rasterize</source>
-        <translation>Виберіть файл для Растеризації</translation>
+        <translation type="unfinished">Виберіть вхідний файл для Растеризування</translation>
     </message>
     <message>
         <source>Select the input file for Sieve</source>
-        <translation>Виберіть файл для відсіювання</translation>
+        <translation>Виберіть вхідний файл для Відсіювання</translation>
     </message>
     <message>
         <source>Select the input file for Warp</source>
-        <translation>Видеріть файл для перепроектування</translation>
+        <translation type="unfinished">Виберіть файл для Переведення в іншу проекцію</translation>
     </message>
     <message>
         <source>Select the input directory with files to Warp</source>
-        <translation>Вкажіть каталог з файлами для перепроектування</translation>
+        <translation type="unfinished">Виберіть каталог з файлами для Переведення в іншу проекцію</translation>
     </message>
     <message>
         <source>Select the output directory to save the results to</source>
-        <translation>Виберіть каталог для запису результатів</translation>
+        <translation type="unfinished">Виберіть вихідний каталог для збереження результатів</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -4282,7 +4282,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the input file for Translate</source>
-        <translation>Виберіть файл для конвертування</translation>
+        <translation>Виберіть вхідний файл для Перетворення</translation>
     </message>
     <message>
         <source>VRT (*.vrt)</source>
@@ -4298,7 +4298,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Convert paletted image to RGB</source>
-        <translation>Індексований растр у RGB</translation>
+        <translation>Перетворити індексований растр у RGB</translation>
     </message>
     <message>
         <source>Band to convert:</source>
@@ -4306,20 +4306,20 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the input file for convert</source>
-        <translation>Вкажіть вхідний файл для конвертації</translation>
+        <translation>Виберіть вхідний файл для перетворення</translation>
     </message>
     <message>
         <source>Warning: CRS information for all raster in subfolders will be rewritten. Are you sure?</source>
-        <translation>Попередження: відомості про проекцію всіх растрів у всіх підкаталогах буде переписано. Ви впевнені?</translation>
+        <translation type="unfinished">Попередження: відомості про CRS для всіх растрів у підкаталогах будуть переписані. Ви впевнені?</translation>
     </message>
     <message>
         <source>Select the input directory with files to Assign projection</source>
-        <translation>Виберіть вхідний каталог для встановлення проекції</translation>
+        <translation>Виберіть вхідний каталог з фалами для Призначення проекції</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogExtractProjection.ui" line="14"/>
         <source>Extract projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Визначити проекцію</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogExtractProjection.ui" line="20"/>
@@ -4329,7 +4329,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogExtractProjection.ui" line="29"/>
         <source>&amp;Input file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вхідний файл</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogExtractProjection.ui" line="44"/>
@@ -4339,7 +4339,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogExtractProjection.ui" line="51"/>
         <source>Create also prj file</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити також prj-файл</translation>
     </message>
 </context>
 <context>
@@ -4347,39 +4347,39 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     <message>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="20"/>
         <source>Select the extent by drag on canvas</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Для встановлення охоплення протягніть по карті</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="27"/>
         <source>or change the extent coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">або введіть координати</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="37"/>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="47"/>
         <source>x</source>
-        <translation type="unfinished">x</translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="63"/>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="70"/>
         <source>y</source>
-        <translation type="unfinished">y</translation>
+        <translation>y</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="77"/>
         <source>2</source>
-        <translation type="unfinished">2</translation>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="87"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="97"/>
         <source>Re-Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поновити</translation>
     </message>
 </context>
 <context>
@@ -4422,34 +4422,41 @@ and python executables.
 
 MacOS users usually need to set it to something like
 /Library/Frameworks/GDAL.framework/Versions/1.8/Programs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перелік відокремлених двокрапкою (Linux та MacOS) або
+крапкою з комою (Windows) шляхів до двійкових
+та python виконавчих програм.
+
+Користувачі MacOS зазвичай мають встановити щось на кшталт
+/Library/Frameworks/GDAL.framework/Versions/1.8/Programs</translation>
     </message>
     <message>
         <source>A list of colon-separated (Linux and MacOS) or
 semicolon-separated (Windows) paths to python modules.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перелік відокремлених двокрапкою (Linux та MacOS) або
+крапкою з комою (Windows) шляхів до модулів Python.</translation>
     </message>
     <message>
         <source>Useful to open local GDAL documentation instead of online help
 when pressing on the tool dialog&apos;s Help button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Натискаючи на кнопку Довідка діалогового вікна інструмента,
+доцільно відкривати локальну документацію GDAL замість онлайн-довідки.</translation>
     </message>
     <message>
         <source>Select directory with GDAL executables</source>
-        <translation>Виберіть каталог виконуваних файлів GDAL</translation>
+        <translation type="unfinished">Виберіть каталог виконавчих файлів GDAL</translation>
     </message>
     <message>
         <source>Select directory with GDAL python modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть каталог з python модулями GDAL</translation>
     </message>
     <message>
         <source>Select directory with the GDAL documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть каталог з документацією GDAL</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogSettings.ui" line="14"/>
         <source>Gdal Tools settings</source>
-        <translation>Установки Gdal Tools</translation>
+        <translation>Налаштування Інструментів Gdal</translation>
     </message>
     <message>
         <source>Path to the GDAL binaries</source>
@@ -4458,7 +4465,7 @@ when pressing on the tool dialog&apos;s Help button.</source>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogSettings.ui" line="22"/>
         <source>Path to the GDAL executables</source>
-        <translation type="unfinished"></translation>
+        <translation>Шлях до виконавчих файлів GDAL</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogSettings.ui" line="49"/>
@@ -4472,22 +4479,22 @@ when pressing on the tool dialog&apos;s Help button.</source>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogSettings.ui" line="60"/>
         <source>Path to the GDAL python modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Шлях до python модулів GDAL</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogSettings.ui" line="98"/>
         <source>GDAL help path</source>
-        <translation type="unfinished"></translation>
+        <translation>Шлях до довідки GDAL</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogSettings.ui" line="137"/>
         <source>GDAL data path</source>
-        <translation>Каталог даних GDAL</translation>
+        <translation>Шлях до даних GDAL</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogSettings.ui" line="168"/>
         <source>GDAL driver path</source>
-        <translation>Каталог драйверів GDAL</translation>
+        <translation>Шлях до драйвера GDAL</translation>
     </message>
     <message>
         <source>GDAL pymod path</source>
@@ -4519,24 +4526,24 @@ when pressing on the tool dialog&apos;s Help button.</source>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="20"/>
         <source>Build Virtual Raster (Catalog)</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити віртуальний растр (Каталог)</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="31"/>
         <source>Use visible raster layers for input</source>
-        <translation type="unfinished"></translation>
+        <translation>Як вхідні дані використовувати видимі растрові шари</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="38"/>
         <location filename="../python/plugins/GdalTools/tools/widgetMerge.ui" line="71"/>
         <source>Choose input directory instead of files</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибрати вхідний каталог замість файлів</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="45"/>
         <location filename="../python/plugins/GdalTools/tools/widgetMerge.ui" line="28"/>
         <source>&amp;Input files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вхідні файли</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="62"/>
@@ -4552,42 +4559,42 @@ when pressing on the tool dialog&apos;s Help button.</source>
         <location filename="../python/plugins/GdalTools/tools/widgetTranslate.ui" line="45"/>
         <location filename="../python/plugins/GdalTools/tools/widgetWarp.ui" line="45"/>
         <source>&amp;Output file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вихідний файл</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="72"/>
         <source>&amp;Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Роздільна здатність</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="89"/>
         <source>Highest</source>
-        <translation>Найкраще</translation>
+        <translation>Найвища</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="94"/>
         <source>Average</source>
-        <translation>Середнє</translation>
+        <translation>Середня</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="99"/>
         <source>Lowest</source>
-        <translation>Найгірше</translation>
+        <translation>Найнижча</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="107"/>
         <source>&amp;Source No Data</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Значення No Data</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="124"/>
         <source>Se&amp;parate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Роз&amp;ділити</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="137"/>
         <source>Allow projection difference</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Дозволити розбіжність в проекціях</translation>
     </message>
     <message>
         <source>&amp;Resolution:</source>
